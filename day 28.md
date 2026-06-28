@@ -1,4 +1,4 @@
-# 🏥 Day 27 – Hospital Admission Readiness Simulator
+# 🏥 Day 28 – Hospital Admission Readiness Simulator
 
 Today's project focuses on simulating one of the most important administrative workflows in healthcare—Hospital Admission Readiness.
 
