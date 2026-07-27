@@ -1,0 +1,14 @@
+Day 48 – Compare & Decide Builder
+Overview
+
+Today's project focuses on designing a Compare & Decide Builder, a decision-support application that helps users compare multiple options using real-world evaluation criteria and transparent research.
+
+Features
+Guided MCQ-based decision setup
+Multi-criteria comparison system
+Adjustable weighting for personalized rankings
+Live score calculation
+Source and citation panel
+Research methodology section
+Responsive and modern interface
+Graceful handling of loading, empty, and edge states
